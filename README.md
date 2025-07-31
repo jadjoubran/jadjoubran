@@ -17,7 +17,7 @@ I also have some interesting side projects:
 
 I enjoy various sports/activities such as:  
 - Snowboarding 🏂
-- Outdoor climbing, sports climbing, and bouldering 🧗
+- Bouldering 🧗
 - Road cycling 🚴
 - Playing Piano 🎹
 
