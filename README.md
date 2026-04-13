@@ -9,6 +9,7 @@ I'm currently focusing most of my efforts on teaching the next generation of amb
 - [Learn Programming](https://learnprogramming.online/?utm_source=githubprofile)
 - [Learn HTML CSS](https://learnhtmlcss.online/?utm_source=githubprofile)
 - [React Tutorial](https://react-tutorial.app/?utm_source=githubprofile)
+- [SQL Tutorial](https://sql-tutorial.app/?utm_source=githubprofile)
 
 I also have some interesting side projects:  
 - [Free JavaScript Projects](https://learnjavascript.online/projects.html)
