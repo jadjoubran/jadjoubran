@@ -10,6 +10,7 @@ I'm currently focusing most of my efforts on teaching the next generation of amb
 - [Learn HTML CSS](https://learnhtmlcss.online/?utm_source=githubprofile)
 - [React Tutorial](https://react-tutorial.app/?utm_source=githubprofile)
 - [SQL Tutorial](https://sql-tutorial.app/?utm_source=githubprofile)
+- [Learn AI](https://learnai.online/?utm_source=githubprofile)
 
 I also have some interesting side projects:  
 - [Free JavaScript Projects](https://learnjavascript.online/projects.html)
@@ -18,8 +19,9 @@ I also have some interesting side projects:
 
 I enjoy various sports/activities such as:  
 - Snowboarding 🏂
-- Bouldering 🧗
+- Wakeboarding 🏄🏻‍♂️
 - Road cycling 🚴
+- Bouldering 🧗
 - Playing Piano 🎹
 
 And I have a lovely ginger cat called Gijsje 🐈
